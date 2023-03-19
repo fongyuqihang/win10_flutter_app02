@@ -1,16 +1,18 @@
 # win10_flutter_app02
 
-A new Flutter project.
+一个新的Flutter项目。
 
-## Getting Started
+##开始
 
-This project is a starting point for a Flutter application.
+这个项目是Flutter应用程序的起点。
 
-A few resources to get you started if this is your first Flutter project:
+如果这是您的第一个Flutter项目，可以参考一些资源:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+有关如何开始Flutter开发的帮助，请查看
+
+[在线文档](https://docs.flutter.dev/)，提供教程，
+
+样本，移动开发指南，以及完整的API参考
