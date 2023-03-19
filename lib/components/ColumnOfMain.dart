@@ -28,10 +28,10 @@ class ColumnOfMain extends StatelessWidget {
           ),
         ),
         Container(
-          height: 80,
+          height: 320,
           color: Colors.amber[100],
           child: const Center(
-            child: Text('''   君不见黄河之水天上来，奔流到海不复回。
+            child: Text(''' 君不见黄河之水天上来，奔流到海不复回。
 君不见高堂明镜悲白发，朝如青丝暮成雪。
 人生得意须尽欢，莫使金樽空对月。
 天生我材必有用，千金散尽还复来。
@@ -46,10 +46,10 @@ class ColumnOfMain extends StatelessWidget {
           ),
         ),
         Container(
-          height: 80,
+          height: 320,
           color: Colors.amber[100],
           child: const Center(
-            child: Text('''   君不见黄河之水天上来，奔流到海不复回。
+            child: Text('''君不见黄河之水天上来，奔流到海不复回。
 君不见高堂明镜悲白发，朝如青丝暮成雪。
 人生得意须尽欢，莫使金樽空对月。
 天生我材必有用，千金散尽还复来。
@@ -64,10 +64,10 @@ class ColumnOfMain extends StatelessWidget {
           ),
         ),
         Container(
-          height: 80,
+          height: 320,
           color: Colors.amber[100],
           child: const Center(
-            child: Text('''   君不见黄河之水天上来，奔流到海不复回。
+            child: Text('''君不见黄河之水天上来，奔流到海不复回。
 君不见高堂明镜悲白发，朝如青丝暮成雪。
 人生得意须尽欢，莫使金樽空对月。
 天生我材必有用，千金散尽还复来。
@@ -82,10 +82,10 @@ class ColumnOfMain extends StatelessWidget {
           ),
         ),
         Container(
-          height: 80,
+          height: 320,
           color: Colors.amber[100],
           child: const Center(
-            child: Text('''   君不见黄河之水天上来，奔流到海不复回。
+            child: Text('''君不见黄河之水天上来，奔流到海不复回。
 君不见高堂明镜悲白发，朝如青丝暮成雪。
 人生得意须尽欢，莫使金樽空对月。
 天生我材必有用，千金散尽还复来。
@@ -100,10 +100,10 @@ class ColumnOfMain extends StatelessWidget {
           ),
         ),
         Container(
-          height: 80,
+          height: 320,
           color: Colors.amber[100],
           child: const Center(
-            child: Text('''   君不见黄河之水天上来，奔流到海不复回。
+            child: Text('''君不见黄河之水天上来，奔流到海不复回。
 君不见高堂明镜悲白发，朝如青丝暮成雪。
 人生得意须尽欢，莫使金樽空对月。
 天生我材必有用，千金散尽还复来。
@@ -118,10 +118,10 @@ class ColumnOfMain extends StatelessWidget {
           ),
         ),
         Container(
-          height: 80,
+          height: 320,
           color: Colors.amber[100],
           child: const Center(
-            child: Text('''   君不见黄河之水天上来，奔流到海不复回。
+            child: Text('''君不见黄河之水天上来，奔流到海不复回。
 君不见高堂明镜悲白发，朝如青丝暮成雪。
 人生得意须尽欢，莫使金樽空对月。
 天生我材必有用，千金散尽还复来。
@@ -136,10 +136,10 @@ class ColumnOfMain extends StatelessWidget {
           ),
         ),
         Container(
-          height: 80,
+          height: 320,
           color: Colors.amber[100],
           child: const Center(
-            child: Text('''   君不见黄河之水天上来，奔流到海不复回。
+            child: Text('''君不见黄河之水天上来，奔流到海不复回。
 君不见高堂明镜悲白发，朝如青丝暮成雪。
 人生得意须尽欢，莫使金樽空对月。
 天生我材必有用，千金散尽还复来。
@@ -154,10 +154,10 @@ class ColumnOfMain extends StatelessWidget {
           ),
         ),
         Container(
-          height: 80,
+          height: 320,
           color: Colors.amber[100],
           child: const Center(
-            child: Text('''   君不见黄河之水天上来，奔流到海不复回。
+            child: Text('''君不见黄河之水天上来，奔流到海不复回。
 君不见高堂明镜悲白发，朝如青丝暮成雪。
 人生得意须尽欢，莫使金樽空对月。
 天生我材必有用，千金散尽还复来。
@@ -172,10 +172,10 @@ class ColumnOfMain extends StatelessWidget {
           ),
         ),
         Container(
-          height: 80,
+          height: 320,
           color: Colors.amber[100],
           child: const Center(
-            child: Text('''   君不见黄河之水天上来，奔流到海不复回。
+            child: Text('''君不见黄河之水天上来，奔流到海不复回。
 君不见高堂明镜悲白发，朝如青丝暮成雪。
 人生得意须尽欢，莫使金樽空对月。
 天生我材必有用，千金散尽还复来。
@@ -190,10 +190,10 @@ class ColumnOfMain extends StatelessWidget {
           ),
         ),
         Container(
-          height: 80,
+          height: 320,
           color: Colors.amber[100],
           child: const Center(
-            child: Text('''   君不见黄河之水天上来，奔流到海不复回。
+            child: Text('''君不见黄河之水天上来，奔流到海不复回。
 君不见高堂明镜悲白发，朝如青丝暮成雪。
 人生得意须尽欢，莫使金樽空对月。
 天生我材必有用，千金散尽还复来。
